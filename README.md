@@ -1,2 +1,3 @@
 # DoS_py
-DoS script in python
+DoS/DDoS script made in python
+on startup you will be asked for ip to DoS
